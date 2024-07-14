@@ -4,9 +4,15 @@ It provides a seamless and intuitive interface for users to browse menus, place 
 The application is built to cater to cusomter making it a comprehensive solution for online food ordering and delivery management.
 
 
-FEATURES:
+**FEATURES**
 - **User Authentication:** Secure login and registration system.
 - **Data Management:** Efficient handling of data storage and retrieval.
 - **User Interface:** Intuitive and user-friendly interface.
 - **Reporting:** Generate and export detailed reports.
-- - **Exception handling** Generate and export detailed reports.
+- **Exception handling** Generate and export detailed reports.
+
+**PREREQUISITES**
+Java JDK 11 or higher
+Oracle DB
+OJDBC jarfile
+
